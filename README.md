@@ -13,6 +13,11 @@ To enable, add the following line to the file `app/assets/javascripts/applicatio
 //= require fancybox
 ```
 
+Then add the following line to the file `app/assets/stylesheets/application.css` (or other sprockets manifest):
+
+``` css
+*= require fancybox
+```
 
 ### Installation
 
