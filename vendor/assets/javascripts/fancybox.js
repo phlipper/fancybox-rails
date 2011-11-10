@@ -4,6 +4,6 @@
 // It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
 // the compiled file.
 //
-//= require jquery.easing-1.3.pack.js
+//= require jquery.easing-1.3.js
 //= require jquery.mousewheel-3.0.4.pack.js
 //= require jquery.fancybox.js
