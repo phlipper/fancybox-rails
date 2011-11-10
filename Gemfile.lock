@@ -60,6 +60,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.1.pre8)
+  bundler (~> 1.1.rc)
   fancybox-rails!
   rake (~> 0.9.2)
